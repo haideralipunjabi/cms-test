@@ -73,5 +73,18 @@
     "system": true,
     "defaultField": false,
     "modelId": "post"
+  },
+  {
+    "name": "Name",
+    "fieldId": "name",
+    "modelId": "post",
+    "componentId": "single-line-text",
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    },
+    "validations": {},
+    "fieldType": "string"
   }
 ]
