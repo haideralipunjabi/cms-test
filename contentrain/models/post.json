@@ -75,7 +75,7 @@
     "modelId": "post"
   },
   {
-    "name": "Name",
+    "name": "name",
     "fieldId": "name",
     "modelId": "post",
     "componentId": "single-line-text",
